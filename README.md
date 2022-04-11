@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mirena Zhelyazkova
-- 👀 I love learning new things
+- 👀 Love learning new things
 - 🌱 I’m currently studying Python
 
 <!---
