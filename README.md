@@ -1,6 +1,6 @@
-- 👋 _Hi, I’m Mirena Zhelyazkova
-- 👀 _Love learning new things
-- 🌱 _I’m currently studying **Python**
+- 👋 _Hi, I’m Mirena Zhelyazkova_
+- 👀 _Love learning new things_
+- 🌱 _I’m currently studying **Python**_
 
 <!---
 mirena33/mirena33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
