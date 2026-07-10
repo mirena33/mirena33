@@ -1,6 +1,6 @@
-- - __Hi 👋 I'm Mirena__
+-  __Hi 👋 I'm Mirena__
 -  _Release Engineer_
-🌱 __Currently__
+- 🌱 __Currently__
 - Working in the game industry
 - Learning docker, k8s, terraform
 <!---
