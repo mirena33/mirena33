@@ -3,8 +3,8 @@ _Release Engineer_
 
 🌱 __Currently__
 
-• Working in the game industry
-• Learning docker, k8s, terraform
+- Working in the game industry
+- Learning docker, k8s, terraform
 
 <!---
 mirena33/mirena33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
