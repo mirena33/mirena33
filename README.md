@@ -1,13 +1,12 @@
-┌─────────────────────────────┐
-│ 👋 Mirena                   │
-│ Release Engineer             │
-│ 📍 Sofia                    │
-└─────────────────────────────┘
+$ whoami
+Mirena
 
-Current:
-• Working in the game industry
-• Learning Docker, K8s, Terraform
+$ role
+Release Engineer
 
+$currenly
+Working in the game industry
+Learning docker, k8s, terraform
 <!---
 mirena33/mirena33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
