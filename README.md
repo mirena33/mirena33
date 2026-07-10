@@ -1,6 +1,12 @@
-- 👋 _Hi, I’m Mirena Zhelyazkova_
-- 👀 _Love learning new things_
-- 🌱 _**Python**_
+┌─────────────────────────────┐
+│ 👋 Mirena                   │
+│ Release Engineer             │
+│ 📍 Sofia                    │
+└─────────────────────────────┘
+
+Current:
+• Working in the game industry
+• Learning Docker, K8s, Terraform
 
 <!---
 mirena33/mirena33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
