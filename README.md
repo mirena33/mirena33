@@ -4,7 +4,7 @@
 
 ### About Me
 
-Release Engineer
+_Release Engineer_
 
 🎮 Working in the game industry
 
