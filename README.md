@@ -1,6 +1,6 @@
 __Hi 👋 I'm Mirena__
-_Release Engineer_
-────────────────────────────
+_Release Engineer_\n
+────────────────────────────\n
 🌱 __Currently__
 
 • Working in the game industry
